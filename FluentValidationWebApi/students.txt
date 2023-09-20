@@ -1,0 +1,3 @@
+{"Id":1,"Name":"Сергей","SurName":"Васильев","BirthDay":"2006-09-20","Email":"mail@gmail.com"}
+{"Id":2,"Name":"Григорий","SurName":"Степаненко","BirthDay":"2004-09-20","Email":"mail2@gmail.com"}
+{"Id":3,"Name":"Анатолий","SurName":"Штуц","BirthDay":"2000-09-20","Email":"mail3@gmail.com"}
